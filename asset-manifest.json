@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/strona-firmowa/static/css/main.302aefda.css",
+    "main.css": "/strona-firmowa/static/css/main.e7cf7bad.css",
     "main.js": "/strona-firmowa/static/js/main.953ff5f3.js",
     "static/media/images-estate1.jpg": "/strona-firmowa/static/media/images-estate1.30368bb8f37e6d2b9801.jpg",
     "static/media/images-hotel1.jpg": "/strona-firmowa/static/media/images-hotel1.da7e74548a92a37d8fbe.jpg",
@@ -38,11 +38,11 @@
     "static/media/safety.png": "/strona-firmowa/static/media/safety.bc7bac93fe9fb46f0ba8.png",
     "static/media/design.png": "/strona-firmowa/static/media/design.8041be9e048d3b271df9.png",
     "index.html": "/strona-firmowa/index.html",
-    "main.302aefda.css.map": "/strona-firmowa/static/css/main.302aefda.css.map",
+    "main.e7cf7bad.css.map": "/strona-firmowa/static/css/main.e7cf7bad.css.map",
     "main.953ff5f3.js.map": "/strona-firmowa/static/js/main.953ff5f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.302aefda.css",
+    "static/css/main.e7cf7bad.css",
     "static/js/main.953ff5f3.js"
   ]
 }
