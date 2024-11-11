@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Strona-firmowa/static/css/main.1bec1f13.css",
-    "main.js": "/Strona-firmowa/static/js/main.26575255.js",
+    "main.js": "/Strona-firmowa/static/js/main.c3f7a7c1.js",
     "static/media/images-estate1.jpg": "/Strona-firmowa/static/media/images-estate1.30368bb8f37e6d2b9801.jpg",
     "static/media/images-hotel1.jpg": "/Strona-firmowa/static/media/images-hotel1.da7e74548a92a37d8fbe.jpg",
     "static/media/images-hotel3.jpg": "/Strona-firmowa/static/media/images-hotel3.1ac3440e68babebfad4e.jpg",
@@ -39,10 +39,10 @@
     "static/media/design.png": "/Strona-firmowa/static/media/design.8041be9e048d3b271df9.png",
     "index.html": "/Strona-firmowa/index.html",
     "main.1bec1f13.css.map": "/Strona-firmowa/static/css/main.1bec1f13.css.map",
-    "main.26575255.js.map": "/Strona-firmowa/static/js/main.26575255.js.map"
+    "main.c3f7a7c1.js.map": "/Strona-firmowa/static/js/main.c3f7a7c1.js.map"
   },
   "entrypoints": [
     "static/css/main.1bec1f13.css",
-    "static/js/main.26575255.js"
+    "static/js/main.c3f7a7c1.js"
   ]
 }
