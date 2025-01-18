@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/Strona-firmowa/static/css/main.50a89be5.css",
-    "main.js": "/Strona-firmowa/static/js/main.e2f96a0d.js",
-    "static/media/facial.png": "/Strona-firmowa/static/media/facial.aab088f2aa8b93734340.png",
-    "static/media/massage.png": "/Strona-firmowa/static/media/massage.795a37fd0b55b7558d67.png",
-    "static/media/pedicure.png": "/Strona-firmowa/static/media/pedicure.02c5af1870cd8a8f9a5e.png",
-    "static/media/depilation.png": "/Strona-firmowa/static/media/depilation.d5a206e64df6e3de5625.png",
-    "static/media/manicure.png": "/Strona-firmowa/static/media/manicure.ee9c4ea45f91177df867.png",
-    "static/media/makeup.png": "/Strona-firmowa/static/media/makeup.f26d3e8407986de53127.png",
+    "main.css": "/Strona-firmowa/static/css/main.caa34e8a.css",
+    "main.js": "/Strona-firmowa/static/js/main.2d5f41e3.js",
+    "static/media/DreamAvenue.ttf": "/Strona-firmowa/static/media/DreamAvenue.c5cd3fc9b0ec474ff098.ttf",
+    "static/media/LozordSansSerif.ttf": "/Strona-firmowa/static/media/LozordSansSerif.968f26337200894a9193.ttf",
     "index.html": "/Strona-firmowa/index.html",
-    "main.50a89be5.css.map": "/Strona-firmowa/static/css/main.50a89be5.css.map",
-    "main.e2f96a0d.js.map": "/Strona-firmowa/static/js/main.e2f96a0d.js.map"
+    "main.caa34e8a.css.map": "/Strona-firmowa/static/css/main.caa34e8a.css.map",
+    "main.2d5f41e3.js.map": "/Strona-firmowa/static/js/main.2d5f41e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a89be5.css",
-    "static/js/main.e2f96a0d.js"
+    "static/css/main.caa34e8a.css",
+    "static/js/main.2d5f41e3.js"
   ]
 }
